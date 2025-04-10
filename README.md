@@ -5,4 +5,4 @@ Hello everyone! I am a Data Science student, constantly striving to learn and im
 🌱 I am currently studying Deep Learning, Machine Learning, LLM, the whole data science thing.
 
 ## 🌐 Socials:
-[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@needed-l6b)
+[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=Youtube&logoColor=red)](https://www.youtube.com/@needed-l6b)
