@@ -1,5 +1,5 @@
 ## Hi there 👋
-💫 About Me : 
+💫 About Me : <br>
 Data Science student at <b>Satya Wacana Christian University</b>
 
 ## 🌐 Socials :
