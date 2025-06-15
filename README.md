@@ -1,6 +1,6 @@
 ## Hi there 👋
 💫 About Me : <br>
-Data Science student at <b>Satya Wacana Christian University</b>
+Iam a Data Science student
 
 ## 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=Yellow)](https://www.instagram.com/le1pary/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=Yellow)](https://www.instagram.com/neipane_nesinopu/)
