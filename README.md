@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 💫 About Me : <br>
 I'm a Data Science student. 
 Learning about ML Dev and Deep Learning Analysis-
